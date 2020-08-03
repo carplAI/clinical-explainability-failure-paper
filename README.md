@@ -2,6 +2,8 @@
 
 This repository includes the explanation and access to the data used for experiments in our [paper][paper_link].
 
+![Image](https://github.com/caringresearch/clinical-explainability-failure-paper/blob/master/flow.png)
+
 We used two Chext X-ray abnormality detection algorithms in our experiments:
 
   - Pneumonia Detection & Classification
