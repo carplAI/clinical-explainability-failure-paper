@@ -28,6 +28,7 @@ Data is stored in the following structure:
     - no_overlap
 
 *overlap*: Cases where the bounding box by algorithm and the radiologist overlapped.
+
 *no_overlap*: No overlap between the bounding boxes by the algorithm and the radiologist
 
 
